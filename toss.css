@@ -8,7 +8,7 @@
     width: 500px;
     height: 500px;
     background-color: white;
-    margin : 10px;
+    margin : 100px;
 }
 
 .container
@@ -18,7 +18,7 @@
     align-items : center;
 
     width: 400px;
-    height: 90px;
+    height: 70px;
     background-color: white;
 
     box-shadow:
@@ -27,23 +27,23 @@
     0 0 1px 0 rgba(0, 0, 33, 0.09) ;
 
     border-radius: 10px;
-    margin : 5px;
+    margin-bottom : 10px;
 
 }
 
 img
 {
-    margin : 10px;
+    margin-left : 10px;
 }
 
 .box
 {
-    margin-right : 100px;
+    padding-right : 100px;
 }
 
 .box2
 {
-    margin-right : 20px;
+    padding-right : 20px;
 }
 
 
@@ -57,7 +57,7 @@ img
     margin-bottom : 20px;
 
     position : relative;
-    bottom: 120px;
+    bottom: 100px;
 }
 
 .small_font
@@ -69,7 +69,7 @@ img
     margin-bottom : 20px;
 
     position : relative;
-    bottom: 120px;
+    bottom: 100px;
 }
 
 .small_font2
@@ -82,5 +82,5 @@ img
     margin-bottom : 20px;
 
     position : relative;
-    bottom: 120px;
+    bottom: 100px;
 }
